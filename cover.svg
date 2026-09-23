@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jed Brown — Ideas in Transit</title>
+  <desc id="desc">A dark plum editorial banner with luminous violet arcs and cream typography.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121015"/>
+      <stop offset="0.62" stop-color="#211727"/>
+      <stop offset="1" stop-color="#321D3D"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EBCBFF" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#C58CEB" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#F0D4FF" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="haze" cx="82%" cy="44%" r="70%">
+      <stop offset="0" stop-color="#8E5CB0" stop-opacity="0.33"/>
+      <stop offset="1" stop-color="#8E5CB0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#haze)"/>
+  <path d="M665 -162 C1025 -72 1201 65 1158 387" fill="none" stroke="#B676DE" stroke-opacity="0.16" stroke-width="74"/>
+  <path d="M611 -161 C992 -86 1213 53 1169 380" fill="none" stroke="url(#light)" stroke-width="3"/>
+  <path d="M794 -122 C1110 -38 1277 126 1198 385" fill="none" stroke="#D4ACF0" stroke-opacity="0.23" stroke-width="1.5"/>
+
+  <text x="72" y="76" fill="#DAC4E5" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4.4">INDEPENDENT CREATIVE OPERATOR</text>
+  <text x="64" y="235" fill="#FFF9F1" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="900" letter-spacing="-7" textLength="970" lengthAdjust="spacingAndGlyphs">JED BROWN</text>
+  <path d="M72 274 H1128" stroke="#F3E8EF" stroke-opacity="0.28" stroke-width="1"/>
+  <rect x="72" y="273" width="126" height="3" fill="#C99BEA"/>
+  <text x="72" y="316" fill="#F2E8F2" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="3.2">IDEAS IN TRANSIT</text>
+  <text x="1128" y="316" fill="#CBB9D1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" text-anchor="end">BANGKOK ↔ LAS VEGAS</text>
+</svg>
