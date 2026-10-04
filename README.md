@@ -16,13 +16,14 @@ I like the whole journey: shaping the brand, building the site, finding the righ
 
 ### Selected work
 
+- **[Lucid](https://github.com/jedbrnth-eng/lucid-live-wallpaper)** — my open-source macOS app: free live 4K wallpapers for every display, written in Swift and SwiftUI with no dependencies. One-line install, released and maintained by me.
 - **[Jed Hustles](https://jedhustles.com/)** — my wholesale sourcing business, with a live catalog built around how customers actually browse and order.
-- **[Ideas in Transit](https://jedbrown.vercel.app/)** — my interactive portfolio, bringing together eight projects across web, commerce, brands, and creative work.
+- **[Ideas in Transit](https://jedbrown.vercel.app/)** — my interactive portfolio, bringing together nine projects across web, commerce, brands, and creative work.
 - **[Groovin Angels](https://jedbrown.vercel.app/groovin-angels)** — a festival wear brand I co-founded, spanning brand direction, suppliers, and operations.
 
 ### What I’m exploring
 
-Thoughtful frontends, useful AI workflows, and the systems that help small teams turn a good concept into a real product. Recent web work uses Next.js, TypeScript, and CSS.
+Thoughtful frontends, useful AI workflows, and the systems that help small teams turn a good concept into a real product. Recent web work uses Next.js, TypeScript, and CSS, and I'm building native Mac apps in Swift.
 
 <p align="center">
   <a href="https://jedbrown.vercel.app/#contact"><strong>Have something worth building? Let’s talk ↗</strong></a>
