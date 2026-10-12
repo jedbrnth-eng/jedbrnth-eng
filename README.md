@@ -10,7 +10,7 @@
 
 ### Hey, I’m Jed.
 
-I’m a creative operator based in Bangkok, with roots in Las Vegas. I build websites, source products, and help turn ideas into working businesses.
+I’m a creative operator based in Bangkok, with roots in Las Vegas. I source products, and help turn ideas into working businesses.
 
 I like the whole journey: shaping the brand, building the site, finding the right suppliers, and making the customer experience work in real life.
 
