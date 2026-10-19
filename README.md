@@ -12,7 +12,7 @@ I care about the boring parts that make software trustworthy: tests before mergi
   <a href="https://jedbrown.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper"><b>Lucid (open source)</b></a> &nbsp;·&nbsp;
   <a href="https://jedhustles.com/"><b>Jed Hustles</b></a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/jedbrn"><b>Instagram</b></a>
+  <a href="https://instagram.com/jedbrnlab"><b>Instagram (@jedbrnlab)</b></a>
 </p>
 
 ---
