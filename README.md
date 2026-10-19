@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="./cover.svg" alt="Jed Brown — Ideas in Transit" width="100%" />
+  <img src="./assets/hero.jpg" alt="Jed Brown: software, product, systems. Bangkok to Las Vegas." width="100%" />
 </p>
 
-### Hey, I'm Jed.
+### Hi, I'm Jed.
 
-Creative operator in **Bangkok**, roots in **Las Vegas**. I source products, build brands, and turn ideas into working businesses.
+I build native Mac apps, local-first AI tools, and the software that runs my own businesses. Based in Bangkok, roots in Las Vegas.
 
-I like the whole journey: the brand, the site, the suppliers, and making the customer experience work in real life.
+I care about the boring parts that make software trustworthy: tests before merging, CI on every push, tagged releases with changelogs, and READMEs that say what is finished and what is not.
 
 <p align="center">
   <a href="https://jedbrown.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper"><b>Lucid (open source)</b></a> &nbsp;·&nbsp;
   <a href="https://jedhustles.com/"><b>Jed Hustles</b></a> &nbsp;·&nbsp;
   <a href="https://instagram.com/jedbrn"><b>Instagram</b></a>
 </p>
@@ -18,17 +19,43 @@ I like the whole journey: the brand, the site, the suppliers, and making the cus
 
 ### Selected work
 
-- **[Lucid](https://github.com/jedbrnth-eng/lucid-live-wallpaper)**: open-source macOS app. Free live 4K wallpapers for every display, written in Swift and SwiftUI, no dependencies.
-- **[Jed Hustles](https://jedhustles.com/)**: my wholesale sourcing business, with a live catalog built around how customers actually browse and order.
-- **[Ideas in Transit](https://jedbrown.vercel.app/)**: interactive portfolio, nine projects across web, commerce, brands and creative work.
-- **[Groovin Angels](https://jedbrown.vercel.app/groovin-angels)**: festival wear brand I co-founded, spanning brand direction, suppliers and operations.
+<table>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/lucid.jpg" alt="Lucid emblem" width="140" /></td>
+    <td valign="top">
+      <b><a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper">Lucid</a></b> &nbsp;<code>Swift</code> <code>SwiftUI</code> <code>macOS</code> &nbsp;<sub>open source · MIT</sub><br />
+      Live 4K wallpapers for every Mac display: about 590 space and nature loops plus Apple Aerials, from a native menu-bar app with no account and no tracking. Ships through GitHub Actions CI and versioned releases with a one-line installer.<br />
+      <sub><a href="https://lucid-wallpaper.vercel.app">Website</a> (<a href="https://github.com/jedbrnth-eng/lucid-site">source</a>, Three.js / WebGL) · <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper/releases/latest">Latest release</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/videostudio.jpg" alt="Jed Video Studio emblem" width="140" /></td>
+    <td valign="top">
+      <b>Jed Video Studio</b> &nbsp;<code>Python</code> <code>ffmpeg</code> <code>faster-whisper</code> <code>MCP</code> &nbsp;<sub>private</sub><br />
+      A local AI editor for short-form video. Silence cutting, word-timed captions, 9:16 reframing and caption styles run on a deterministic ffmpeg pipeline that never modifies the original file. An MCP server lets AI agents make the same edits. The cut logic is regression-tested against the original implementation on 3,000 random inputs.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/framelab.jpg" alt="FRAME-LAB emblem" width="140" /></td>
+    <td valign="top">
+      <b>FRAME-LAB</b> &nbsp;<code>Swift</code> <code>Python</code> <code>iOS</code> &nbsp;<sub>private · early stage</sub><br />
+      An iPhone camera lab for film, disposable and digicam looks. Every look carries a label showing which real equipment it is based on and how much evidence stands behind it, and a validator enforces that. Today the data model, validator and seeded catalog exist; the iOS app is next.
+    </td>
+  </tr>
+</table>
 
-### What I'm exploring
+**Also building:** No Brainrot (TypeScript, a calm Mac home for the videos, music and streams you follow, with no Shorts) and GodIsGood (Python, a crypto bot that only paper-trades live market data until it passes a written risk gate).
 
-Thoughtful frontends, useful AI workflows, and the systems that help small teams turn a good concept into a real product. Recent web work in Next.js, TypeScript and CSS, plus native Mac apps in Swift.
+### Stack
+
+`Swift` · `SwiftUI` · `TypeScript` · `Next.js` · `Python` · `ffmpeg` · `Three.js / WebGL` · `GitHub Actions`
+
+### Outside the editor
+
+I run [Jed Hustles](https://jedhustles.com/), a wholesale sourcing business, and co-founded the festival wear brand [Groovin Angels](https://jedbrown.vercel.app/groovin-angels). That is where most of my software ideas come from: real problems, real customers.
 
 ---
 
 <p align="center">
-  <a href="https://jedbrown.vercel.app/#contact"><b>Have something worth building? Let's talk ↗</b></a>
+  <a href="https://jedbrown.vercel.app/#contact"><b>Building something interesting? Let's talk ↗</b></a>
 </p>
