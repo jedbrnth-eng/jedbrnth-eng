@@ -36,10 +36,10 @@ I care about the boring parts that make software trustworthy: tests before mergi
     </td>
   </tr>
   <tr>
-    <td width="150" valign="top"><img src="./assets/framelab.jpg" alt="FRAME-LAB emblem" width="140" /></td>
+    <td width="150" valign="top"><img src="./assets/framelab.jpg" alt="Shelfcam emblem" width="140" /></td>
     <td valign="top">
-      <b>FRAME-LAB</b> &nbsp;<code>Swift</code> <code>Python</code> <code>iOS</code> &nbsp;<sub>private · early stage</sub><br />
-      An iPhone camera lab for film, disposable and digicam looks. Every look carries a label showing which real equipment it is based on and how much evidence stands behind it, and a validator enforces that. Today the data model, validator and seeded catalog exist; the iOS app is next.
+      <b>Shelfcam</b> &nbsp;<code>Swift</code> <code>iOS</code> <code>Python</code> &nbsp;<sub>closed source · in TestFlight beta</sub><br />
+      An iPhone camera for film, disposable and digicam looks. Every look carries a label that shows which real equipment it is modelled on and how much evidence stands behind it, and a validator checks every label. In beta on TestFlight now, with an App Store release next. <a href="https://github.com/jedbrnth-eng/framelab-site">Support and privacy site</a>.
     </td>
   </tr>
 </table>
