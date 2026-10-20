@@ -4,9 +4,7 @@
 
 ### Hi, I'm Jed.
 
-I build native Mac apps, local-first AI tools, and the software that runs my own businesses. Based in Bangkok, roots in Las Vegas.
-
-I care about the boring parts that make software trustworthy: tests before merging, CI on every push, tagged releases with changelogs, and READMEs that say what is finished and what is not.
+I build Mac and iPhone apps, local AI tools, and the software behind my own businesses. Most of it starts as something I needed myself. Based in Bangkok, roots in Las Vegas.
 
 <p align="center">
   <a href="https://jedbrown.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
@@ -42,9 +40,21 @@ I care about the boring parts that make software trustworthy: tests before mergi
       An iPhone camera for film, disposable and digicam looks. Every look carries a label that shows which real equipment it is modelled on and how much evidence stands behind it, and a validator checks every label. In beta on TestFlight now, with an App Store release next. Want to try it before launch? <a href="https://jedbrown.vercel.app/#contact">Contact me for a TestFlight link</a>. <a href="https://jedbrnth-eng.github.io/framelab-site/">Support and privacy</a>.
     </td>
   </tr>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/icon-nobrainrot.png" alt="No Brainrot app icon" width="120" /></td>
+    <td valign="top">
+      <b>No Brainrot</b> &nbsp;<code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Electron</code> &nbsp;<sub>private · in development</sub><br />
+      A calm Mac home for the videos, music and streams you follow. No Shorts, no thumbnails, no all-caps titles. Your subscribed channels are organized into boxes you set up yourself, like Podcasts or Tech, each showing the latest uploads from those channels.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/icon-godisgood.png" alt="GodIsGood app icon" width="120" /></td>
+    <td valign="top">
+      <b>GodIsGood</b> &nbsp;<code>Python</code> <code>ccxt</code> <code>Swift</code> &nbsp;<sub>private · paper trading only</sub><br />
+      A crypto trading bot that only paper-trades live market data until it passes a written risk gate. Risk limits are locked by a checksum, every position has a stop, there is no leverage, and backtests can support a strategy but never pass the gate on their own.
+    </td>
+  </tr>
 </table>
-
-**Also building:** No Brainrot (TypeScript, a calm Mac home for the videos, music and streams you follow, with no Shorts) and GodIsGood (Python, a crypto bot that only paper-trades live market data until it passes a written risk gate).
 
 ### Stack
 
