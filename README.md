@@ -19,11 +19,13 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
 
 ### Selected work
 
+My apps and games are open source under GPL-3.0. Use them, learn from them, and send improvements back to the project instead of copying it.
+
 <table>
   <tr>
     <td width="150" valign="top"><img src="./assets/icon-lucid.png" alt="Lucid app icon" width="120" /></td>
     <td valign="top">
-      <b><a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper">Lucid</a></b> &nbsp;<code>Swift</code> <code>SwiftUI</code> <code>macOS</code> &nbsp;<sub>open source · MIT</sub><br />
+      <b><a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper">Lucid</a></b> &nbsp;<code>Swift</code> <code>SwiftUI</code> <code>macOS</code> &nbsp;<sub>open source · GPL-3.0</sub><br />
       Live 4K wallpapers for every Mac display: about 590 space and nature loops plus Apple Aerials, from a native menu-bar app with no account and no tracking. Ships through GitHub Actions CI and versioned releases with a one-line installer.<br />
       <sub><a href="https://lucid-wallpaper.vercel.app">Website</a> (Three.js / WebGL) · <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper/releases/latest">Latest release</a></sub>
     </td>
@@ -34,7 +36,7 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
   <tr>
     <td width="150" valign="top"><img src="./assets/icon-sendit.png" alt="SendIt app icon" width="120" /></td>
     <td valign="top">
-      <b><a href="https://github.com/jedbrnth-eng/sendit">SendIt</a></b> &nbsp;<code>Godot 4</code> <code>GDScript</code> &nbsp;<sub>open source · free</sub><br />
+      <b><a href="https://github.com/jedbrnth-eng/sendit">SendIt</a></b> &nbsp;<code>Godot 4</code> <code>GDScript</code> &nbsp;<sub>open source · GPL-3.0 · free</sub><br />
       A night-highway traffic racer: thread the gaps at 200+ km/h, chain the combo, bank it before you wreck, and outrun the police. Free downloads for Mac, Windows and Linux, built and released through GitHub Actions CI.<br />
       <sub><a href="https://github.com/jedbrnth-eng/sendit#readme">Gameplay video</a> · <a href="https://github.com/jedbrnth-eng/sendit/releases/latest">Latest release</a></sub>
     </td>
@@ -45,7 +47,7 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
   <tr>
     <td width="150" valign="top"><img src="./assets/icon-ravelive.png" alt="RAVE LIVE app icon" width="120" /></td>
     <td valign="top">
-      <b><a href="https://github.com/jedbrnth-eng/rave-live">RAVE LIVE</a></b> &nbsp;<code>Swift</code> <code>Metal</code> <code>macOS</code> &nbsp;<sub>open source · MIT</sub><br />
+      <b><a href="https://github.com/jedbrnth-eng/rave-live">RAVE LIVE</a></b> &nbsp;<code>Swift</code> <code>Metal</code> <code>macOS</code> &nbsp;<sub>open source · GPL-3.0</sub><br />
       A festival light show that plays along with whatever your Mac is playing: beat-locked stage lights, lasers, LED walls, pyro and 33 visualizers. Native Swift and Metal, no account, no tracking. Mac only for now, with a free DMG download and CI on every push.<br />
       <sub><a href="https://github.com/jedbrnth-eng/rave-live#readme">Visuals reel</a> · <a href="https://github.com/jedbrnth-eng/rave-live/releases/latest">Latest release</a></sub>
     </td>
