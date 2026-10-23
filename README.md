@@ -9,6 +9,7 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
 <p align="center">
   <a href="https://jedbrown.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper"><b>Lucid (open source)</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/jedbrnth-eng/sendit"><b>SendIt (game)</b></a> &nbsp;·&nbsp;
   <a href="https://jedhustles.com/"><b>Jed Hustles</b></a> &nbsp;·&nbsp;
   <a href="https://instagram.com/jedbrnlab"><b>Instagram (@jedbrnlab)</b></a>
 </p>
@@ -28,9 +29,20 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/icon-sendit.png" alt="SendIt app icon" width="120" /></td>
+    <td valign="top">
+      <b><a href="https://github.com/jedbrnth-eng/sendit">SendIt</a></b> &nbsp;<code>Godot 4</code> <code>GDScript</code> &nbsp;<sub>open source · free</sub><br />
+      A night-highway traffic racer: thread the gaps at 200+ km/h, chain the combo, bank it before you wreck, and outrun the police. Free downloads for Mac, Windows and Linux, built and released through GitHub Actions CI.<br />
+      <sub><a href="https://github.com/jedbrnth-eng/sendit#readme">Gameplay video</a> · <a href="https://github.com/jedbrnth-eng/sendit/releases/latest">Latest release</a></sub>
+    </td>
+  </tr>
+</table>
+
 ### Stack
 
-`Swift` · `SwiftUI` · `TypeScript` · `Next.js` · `Python` · `ffmpeg` · `Three.js / WebGL` · `GitHub Actions`
+`Godot` · `Swift` · `SwiftUI` · `TypeScript` · `Next.js` · `Python` · `ffmpeg` · `Three.js / WebGL` · `GitHub Actions`
 
 ### Outside the editor
 
