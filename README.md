@@ -10,6 +10,7 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
   <a href="https://jedbrown.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper"><b>Lucid (open source)</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/sendit"><b>SendIt (game)</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/jedbrnth-eng/rave-live"><b>RAVE LIVE (open source)</b></a> &nbsp;·&nbsp;
   <a href="https://jedhustles.com/"><b>Jed Hustles</b></a> &nbsp;·&nbsp;
   <a href="https://instagram.com/jedbrnlab"><b>Instagram (@jedbrnlab)</b></a>
 </p>
@@ -40,9 +41,20 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/icon-ravelive.png" alt="RAVE LIVE app icon" width="120" /></td>
+    <td valign="top">
+      <b><a href="https://github.com/jedbrnth-eng/rave-live">RAVE LIVE</a></b> &nbsp;<code>Swift</code> <code>Metal</code> <code>macOS</code> &nbsp;<sub>open source · MIT</sub><br />
+      A festival light show that plays along with whatever your Mac is playing: beat-locked stage lights, lasers, LED walls, pyro and 33 visualizers. Native Swift and Metal, no account, no tracking. Mac only for now, with a free DMG download and CI on every push.<br />
+      <sub><a href="https://github.com/jedbrnth-eng/rave-live#readme">Visuals reel</a> · <a href="https://github.com/jedbrnth-eng/rave-live/releases/latest">Latest release</a></sub>
+    </td>
+  </tr>
+</table>
+
 ### Stack
 
-`Godot` · `Swift` · `SwiftUI` · `TypeScript` · `Next.js` · `Python` · `ffmpeg` · `Three.js / WebGL` · `GitHub Actions`
+`Godot` · `Swift` · `SwiftUI` · `Metal` · `TypeScript` · `Next.js` · `Python` · `ffmpeg` · `Three.js / WebGL` · `GitHub Actions`
 
 ### Outside the editor
 
