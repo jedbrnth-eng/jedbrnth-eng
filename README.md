@@ -26,8 +26,8 @@ My apps and games are open source under GPL-3.0. Use them, learn from them, and 
     <td width="150" valign="top"><img src="./assets/icon-lucid.png" alt="Lucid app icon" width="120" /></td>
     <td valign="top">
       <b><a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper">Lucid</a></b> &nbsp;<code>Swift</code> <code>SwiftUI</code> <code>macOS</code> &nbsp;<sub>open source · GPL-3.0</sub><br />
-      Live 4K wallpapers for every Mac display: about 590 space and nature loops plus Apple Aerials, from a native menu-bar app with no account and no tracking. Ships through GitHub Actions CI and versioned releases with a one-line installer.<br />
-      <sub><a href="https://lucid-wallpaper.vercel.app">Website</a> (Three.js / WebGL) · <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper/releases/latest">Latest release</a></sub>
+      Live 4K wallpapers for every Mac display: 590+ space and nature loops, Apple Aerials and your own files, with a Home page of live previews, audio-reactive looks, Day &amp; Night and smart pausing. Native, no account, no tracking. Ships through GitHub Actions CI and checksummed releases with a one-line installer.<br />
+      <sub><a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper#readme">Demo video</a> · <a href="https://lucid-wallpaper.vercel.app">Website</a> (Three.js / WebGL) · <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper/releases/latest">Latest release (1.3.0)</a></sub>
     </td>
   </tr>
 </table>
