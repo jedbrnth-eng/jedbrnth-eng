@@ -36,8 +36,8 @@ My apps and games are open source under GPL-3.0. Use them, learn from them, and 
   <tr>
     <td width="150" valign="top"><img src="./assets/icon-sendit.png" alt="SendIt app icon" width="120" /></td>
     <td valign="top">
-      <b><a href="https://github.com/jedbrnth-eng/sendit">SendIt</a></b> &nbsp;<code>Godot 4</code> <code>GDScript</code> &nbsp;<sub>open source · GPL-3.0 · free</sub><br />
-      A night-highway traffic racer: thread the gaps at 200+ km/h, chain the combo, bank it before you wreck, and outrun the police. Free downloads for Mac, Windows and Linux, built and released through GitHub Actions CI.<br />
+      <b><a href="https://github.com/jedbrnth-eng/sendit">SendIt</a></b> &nbsp;<code>Godot 4</code> <code>GDScript</code> &nbsp;<sub>open source · GPL-3.0 · early release (0.3)</sub><br />
+      A night-highway traffic racer: thread the gaps at 200+ km/h, chain the combo, bank it before you wreck, and outrun police who box you in and set up roadblocks. Five cars to unlock and tune, mirrors and a replay cam of your best gaps. Free downloads for Mac, Windows and Linux, built and released through GitHub Actions CI.<br />
       <sub><a href="https://github.com/jedbrnth-eng/sendit#readme">Gameplay video</a> · <a href="https://github.com/jedbrnth-eng/sendit/releases/latest">Latest release</a></sub>
     </td>
   </tr>
@@ -47,8 +47,8 @@ My apps and games are open source under GPL-3.0. Use them, learn from them, and 
   <tr>
     <td width="150" valign="top"><img src="./assets/icon-ravelive.png" alt="RAVE LIVE app icon" width="120" /></td>
     <td valign="top">
-      <b><a href="https://github.com/jedbrnth-eng/rave-live">RAVE LIVE</a></b> &nbsp;<code>Swift</code> <code>Metal</code> <code>macOS</code> &nbsp;<sub>open source · GPL-3.0</sub><br />
-      A festival light show that plays along with whatever your Mac is playing: beat-locked stage lights, lasers, LED walls, pyro and 33 visualizers. Native Swift and Metal, no account, no tracking. Mac only for now, with a free DMG download and CI on every push.<br />
+      <b><a href="https://github.com/jedbrnth-eng/rave-live">RAVE LIVE</a></b> &nbsp;<code>Swift</code> <code>Metal</code> <code>macOS</code> &nbsp;<sub>open source · GPL-3.0 · pre-release (0.5)</sub><br />
+      A festival light show that plays along with whatever your Mac is playing: it finds the beat and bar line in real time and locks stage lights, lasers, LED walls and pyro to them, with 48 original visuals, a million-particle fluid mode and 149 built-in MilkDrop presets. Syphon, projector and MIDI output for VJs. Native Swift and Metal, one universal app for Apple silicon and Intel (macOS 12+), with a free DMG download and CI on every push.<br />
       <sub><a href="https://github.com/jedbrnth-eng/rave-live#readme">Visuals reel</a> · <a href="https://github.com/jedbrnth-eng/rave-live/releases/latest">Latest release</a></sub>
     </td>
   </tr>
