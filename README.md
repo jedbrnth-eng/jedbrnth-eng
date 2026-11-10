@@ -8,6 +8,7 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
 
 <p align="center">
   <a href="https://jedbrown.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/jedbrnth-eng/no-cap"><b>No Cap (Hermes plugin)</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/lucid-live-wallpaper"><b>Lucid (open source)</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/sendit"><b>SendIt (game)</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jedbrnth-eng/rave-live"><b>RAVE LIVE (open source)</b></a> &nbsp;·&nbsp;
@@ -19,7 +20,18 @@ I build Mac apps, local AI tools, and the software behind my own businesses. Mor
 
 ### Selected work
 
-My apps and games are open source under GPL-3.0. Use them, learn from them, and send improvements back to the project instead of copying it.
+My apps and games are open source under GPL-3.0, and No Cap under Apache-2.0. Use them, learn from them, and send improvements back to the project instead of copying it.
+
+<table>
+  <tr>
+    <td width="150" valign="top"><img src="./assets/icon-nocap.png" alt="No Cap icon: a cap crossed out by a receipt" width="120" /></td>
+    <td valign="top">
+      <b><a href="https://github.com/jedbrnth-eng/no-cap">No Cap</a></b> &nbsp;<code>Python</code> <code>Hermes Agent plugin</code> &nbsp;<sub>open source · Apache-2.0 · 0.2.1</sub><br />
+      Receipts for AI agent claims. When an agent says "all tests pass", "pushed" or "deployed", No Cap checks the reply against the tool calls it really made and stamps each claim: 🧾 proven, 🧢 contradicted, or no receipt. No extra model, no network. 🧾 was right 92 of 100 on a blind sample of public agent runs. Entered in the Nous Research Hermes Agent Plugin Hackathon, November 2026.<br />
+      <sub><a href="https://github.com/jedbrnth-eng/no-cap#demo-72-s">72 s demo</a> · <a href="https://x.com/REFUSEFXth/status/2120127004385452517">Demo with sound (X)</a> · <a href="https://github.com/jedbrnth-eng/no-cap/releases/latest">Latest release</a></sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
